@@ -74,23 +74,6 @@ Dimension Tables:
    SELECT * FROM dashboard_summary;
    ```
 
-## 📁 Project Structure
-
-```
-retail-sales-analytics/
-├── README.md
-├── EXECUTION_GUIDE.md
-├── sql/
-│   ├── retail_analytics_setup.sql
-│   ├── analytical_queries.sql
-│   └── stored_procedures.sql
-├── documentation/
-│   ├── schema_diagram.png
-│   └── sample_dashboard.png
-└── sample_data/
-    └── retail_sample_data.csv
-```
-
 ## 🔍 Key Analytics Queries
 
 ### 1. Sales Trends Analysis
